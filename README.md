@@ -1,5 +1,6 @@
 A little demo projects merging two uint16_t buffers into one uint32_t over dma triggered by timer.
-Example :
+Example 
+
 Source buffers:
 
         uint16_t src1[] = { 0x00AA, 0x001B ... }
